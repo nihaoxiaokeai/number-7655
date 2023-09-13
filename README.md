@@ -1,6 +1,6 @@
 # number-7655
 博学谷 天机学堂 项目实战|黑马 JavaEE V13.0 项目
-### https://www.daxiacode.com/7655.html
+### download：daxiacode。com/7655.html
 
 资源介绍：
 
